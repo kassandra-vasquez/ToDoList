@@ -16,6 +16,7 @@ npm start
 - **HTML**: For structuring content of the web page
 - **CSS**: For styling
 - **Javascript**: For scripting behavior
+- **React**: For building interactive UI
 
 ![alt text](<Screenshot 2024-07-13 210741.png>)
 ![alt text](<Screenshot 2024-07-13 211757.png>)
