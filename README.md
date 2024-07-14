@@ -11,3 +11,4 @@ npm start
 - **CSS**: For styling
 - **Javascript**: For scripting behavior
 
+![alt text](<Screenshot 2024-07-13 210741.png>)
