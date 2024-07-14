@@ -6,6 +6,12 @@ cd TodoList directory
 npm start
 ```
 
+## Features
+- Add a todo item
+- Cross off todo item
+- Delete a todo item
+- Edit and update a todo item
+
 ## Technologies Used
 - **HTML**: For structuring content of the web page
 - **CSS**: For styling
